@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300">
+<rect width="500" height="300" fill="#e8eefc"/>
+<rect x="100" y="45" width="300" height="180" rx="10" fill="#333"/>
+<rect x="115" y="60" width="270" height="150" fill="#4f80e8"/>
+<path d="M60 235h380l-35 30H95z" fill="#777"/>
+<text x="250" y="145" text-anchor="middle" font-family="Arial" font-size="32" fill="white">NOTEBOOK</text>
+</svg>

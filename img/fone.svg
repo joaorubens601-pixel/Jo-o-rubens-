@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300">
+<rect width="500" height="300" fill="#e8eefc"/>
+<path d="M140 150a110 110 0 0 1 220 0" fill="none" stroke="#333" stroke-width="35"/>
+<rect x="105" y="140" width="65" height="90" rx="25" fill="#333"/>
+<rect x="330" y="140" width="65" height="90" rx="25" fill="#333"/>
+<text x="250" y="270" text-anchor="middle" font-family="Arial" font-size="28" fill="#1d4ed8">FONE</text>
+</svg>
